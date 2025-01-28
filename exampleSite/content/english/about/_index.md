@@ -1,54 +1,38 @@
 ---
-title: "About Trung Nguyen: Expert in DevOps, SRE, Cloud Infrastructure & Green Tech Solutions"
-meta_title: "Trung Nguyen - Technical Advisor for DevOps, SRE, Cloud Infrastructure & Green Tech"
-description: "Trung Nguyen is a seasoned technical advisor specializing in DevOps, SRE, cloud infrastructure, and green tech. Helping founders and engineering teams optimize security, scale systems, and build human-centered tech solutions for sustainable growth."
+title: "Trung Nguyen – Strategic Technology Advisor in Green Tech & B2B Solutions"
+meta_title: "Trung Nguyen | Expert Technology Advisor for Green Tech & B2B Growth Solutions"
+description: "Trung Nguyen is a technology advisor who specializes in helping B2B companies in green tech scale sustainably. With 15+ years of experience in DevOps, SRE, and cloud infrastructure, Trung focuses on people-centered solutions that align with your team’s needs and values, ensuring long-term success."
 image: "/images/avatar.png"
 draft: false
 ---
+I’m not just a technical advisor; I’m a partner in your growth journey. Born in Germany to Vietnamese parents, I’ve learned to navigate between cultures, an experience that influences how I approach both life and work.
 
-I’m not just a technical advisor; I’m a partner in your growth journey. Born in Germany to Vietnamese parents, I’ve navigated the complexities of blending cultures—an experience that has deeply influenced my approach to both life and work. This cultural duality shapes how I approach challenges, blending technical expertise with a human touch.
+For me, technology is a tool, but people are at the heart of every project. Whether working with founders, engineering teams, or guiding companies through complex scaling challenges, I focus on delivering solutions that align with your values and team culture.
 
-For me, **technology is a tool**, but **people are the heart of every project**. Whether collaborating with **founders**, **engineering teams**, or helping **companies scale** their technology, I focus on delivering solutions that go beyond the tech. I help teams cut through the noise, make confident decisions, and build technology that serves both their immediate needs and long-term goals.
+With over 15 years of experience across startups, enterprises, and a wide range of industries, I specialize in areas like DevOps, SRE, cloud infrastructure, security, and developer velocity. My goal is to create human-centered solutions that not only solve technical problems but also fit seamlessly into the bigger picture of your business goals and team dynamics.
 
-## **My Approach: Bridging Technology and People for Sustainable Growth**
+## **What Drives Me: People, Processes, and Right-Sized Technology for Sustainable Growth**
 
-With over 15 years of experience across **startups**, **enterprises**, and various industries, I’ve learned that **great solutions** emerge from understanding both the **human and technical aspects**. My specialties include:
+I believe that technology should serve people, not the other way around. That’s why my approach centers on the right-sizing and appropriate usage of technology to ensure it aligns with both your team’s needs and long-term business goals.
 
-- **DevOps processes** to streamline development and operations
-- **SRE (Site Reliability Engineering)** to enhance reliability and scalability
-- **Building platform teams** to improve infrastructure and developer productivity
-- **Optimizing cloud infrastructure**  
-- **Enhancing cybersecurity**  
-- **Boosting developer velocity**
+Instead of pushing the latest trends or solutions that may not fit, I focus on helping teams navigate complex technical landscapes by optimizing processes and creating solutions that are both scalable and sustainable. The goal isn’t just to adopt cutting-edge technology—it’s to adopt the right technology that empowers your people to do their best work while supporting the processes that drive long-term success.
 
-I don’t just create solutions for systems; I create **human-centered solutions** that drive **sustainable growth**. I work with teams to improve **security**, reduce **costs**, and build **robust technology foundations**. My goal is always to deliver scalable systems that support people, not just tech stacks.
+For me, authenticity and autonomy are key. Whether it's refining your team’s workflows or providing guidance on cloud infrastructure or security, I prioritize solutions that support your people, enhance their capabilities, and create an environment where they can thrive. Psychological safety is a key part of that process—ensuring that teams feel empowered to innovate and grow without fear of failure.
 
-## **What Drives Me: Impactful Solutions for People and the Planet**
-
-I’m deeply committed to creating solutions that benefit both **people** and the **planet**. Whether I’m helping companies **reduce cloud infrastructure costs** or implementing **green tech strategies**, I prioritize sustainability at every step. The work I do and the companies I support aim to leave a positive impact on the world, both environmentally and socially.
-
-I’m also passionate about supporting **migrant founders**, particularly in the **green tech** space. Having personally experienced the challenges of building a business in a foreign culture, I focus on helping **migrant entrepreneurs** overcome the unique obstacles they face in scaling their **tech companies**. My mission is to guide them through growing pains and help them align their **technology strategy** with their values.
+By focusing on the human side of technology—and the processes that drive it—I help teams achieve sustainable growth without the waste that often comes with over-engineering. Ultimately, it’s about balancing technology with the needs of your team, enabling them to scale successfully while staying true to your values and culture.
 
 ## **Why I’m Different: A Human-Centered, Resourceful Approach**
 
-Here’s why my approach stands out:
+I prioritize human-centered solutions, ensuring that technology works for people and that your team’s dynamics and long-term goals are aligned with the solutions I create. I bring a unique perspective to every challenge, shaped by my diverse cultural background, helping me find creative solutions to complex problems and do more with less.
 
-- **Human-Centered Solutions**: I don’t just focus on the technology—I prioritize the people who will use it. This ensures the solutions I create align with **team dynamics**, long-term goals, and your company’s vision.  
-- **Resourceful Problem Solving**: Growing up navigating two cultures, I bring creativity and resourcefulness to every challenge, delivering innovative solutions that make the most of available resources.  
-- **Proven Technical Expertise**: I’ve helped **SaaS companies** reduce **server costs** by up to 50%, optimized **security protocols**, and scaled businesses successfully—all while keeping **people and values** at the core of the solution.  
-- **Sustainability-Focused**: From cloud infrastructure to green tech, I design solutions that minimize environmental impact while driving **business growth** and resilience.
+My technical expertise is proven by the results: from optimizing cloud infrastructure to improving security practices, I’ve helped businesses save costs and scale effectively while keeping people at the heart of every solution.
 
-## **Who I Help: Empowering Founders and Engineering Teams**
+## **Who I Help: Empowering Founders and Engineering Leaders**
 
-I specialize in helping **founders** and **engineering leaders** in **small product companies**, particularly in the **climate tech** sector & **B2B** space. These teams often face growing pains around:
+I work with founders and engineering leaders in green tech and B2B, helping them scale their companies effectively and sustainably. Whether optimizing software delivery, security, or infrastructure scaling, I provide the tools and strategies that ensure teams can grow while maintaining their authentic values.
 
-- **Software delivery**
-- **Security challenges**
-- **Infrastructure scaling**
-- **Building and managing platform teams**
-- **Implementing DevOps practices**
-- **Ensuring reliability through SRE processes**
+My focus is on creating solutions that empower teams to make confident decisions and scale with autonomy. I believe in fostering psychological safety in every collaboration, especially in remote teams, where clear communication and trust are key.
 
-I guide these teams past bottlenecks, optimize their **tech stacks**, and help build **scalable, sustainable systems** that grow with them.
+If you’re looking to scale your business with solutions that support your team, values, and vision, let’s talk!
 
-If you’re a **migrant founder** or a **team** looking to scale, let’s talk about how I can help you create **solutions** that solve **technical challenges** while supporting your **team**, **values**, and **vision**.
+In my spare time, you’ll find me rock climbing, bikepacking, hiking, or cooking—activities that keep me grounded and reflect the same passion and perseverance I bring to my work.
