@@ -1,7 +1,7 @@
 ---
-title: "Trung Nguyen – Strategic Technology Advisor in Green Tech & B2B Solutions"
-meta_title: "Trung Nguyen | Expert Technology Advisor for Green Tech & B2B Growth Solutions"
-description: "Trung Nguyen is a technology advisor who specializes in helping B2B companies in green tech scale sustainably. With 15+ years of experience in DevOps, SRE, and cloud infrastructure, Trung focuses on people-centered solutions that align with your team’s needs and values, ensuring long-term success."
+title: "Trung Nguyen – Expert Technology Advisor for Green Tech & B2B Solutions"
+meta_title: "Trung Nguyen | B2B & Green Tech Advisor for Human-Centered Growth Solutions"
+description: "Trung Nguyen helps founders and engineering teams scale sustainably with a human-centered approach. Specializing in B2B, green tech, and optimizing tech processes for long-term success."
 image: "/images/avatar.png"
 draft: false
 ---
