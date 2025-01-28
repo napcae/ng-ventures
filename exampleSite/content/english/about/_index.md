@@ -1,5 +1,5 @@
 ---
-title: "Hey, Trung!"
+title: "Hey, it's me - Trung!"
 meta_title: "About Me: Your Strategic Technology Partner for Growth"
 description: "Experienced technical advisor specializing in DevOps, SRE, cloud infrastructure, and green tech solutions. I help founders, engineering teams, and migrant entrepreneurs scale sustainably, optimize security, and create human-centered technology systems. Let’s build a future-ready tech stack aligned with your vision."
 image: "/images/avatar.png"
