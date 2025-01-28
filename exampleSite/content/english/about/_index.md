@@ -1,6 +1,6 @@
 ---
 title: "About Me: Your Strategic Technology Partner for Growth"
-meta_title: "Trung Nguyen: Technical Advisor for DevOps, SRE, Cloud Infrastructure, Scaling Teams & Tech Solutions"
+meta_title: "Learn about Trung Nguyen, a seasoned technical advisor with 15+ years of experience helping startups grow. Discover how Trung Nguyen helps B2B companies & Startups scale efficiently with personalized, sustainable tech solutions.""
 description: "Experienced technical advisor specializing in DevOps, SRE, cloud infrastructure, and green tech solutions. I help founders, engineering teams, and migrant entrepreneurs scale sustainably, optimize security, and create human-centered technology systems. Let’s build a future-ready tech stack aligned with your vision."
 image: "/images/avatar.png"
 draft: false
