@@ -1,12 +1,10 @@
 ---
-title: "Hey, it's me - Trung!"
-meta_title: "About Me: Your Strategic Technology Partner for Growth"
+title: "About Me: Your Strategic Technology Partner for Growth"
+meta_title: "Technical Advisor for DevOps, SRE, Cloud Infrastructure & Green Tech Solutions"
 description: "Experienced technical advisor specializing in DevOps, SRE, cloud infrastructure, and green tech solutions. I help founders, engineering teams, and migrant entrepreneurs scale sustainably, optimize security, and create human-centered technology systems. Let’s build a future-ready tech stack aligned with your vision."
 image: "/images/avatar.png"
 draft: false
 ---
-
-### **About Me: Your Strategic Technology Partner for Growth**
 
 I’m not just a technical advisor; I’m a partner in your growth journey. Born in Germany to Vietnamese parents, I’ve navigated the complexities of blending cultures—an experience that has deeply influenced my approach to both life and work. This cultural duality shapes how I approach challenges, blending technical expertise with a human touch.
 
