@@ -6,6 +6,6 @@ banner:
   image: "/images/placeholder-banner.png"
   button:
     enable: true
-    label: "Book Your Free Growth Session"
+    label: "Subscribe for Growth Insights"
     link: "#book-session"
 ---
