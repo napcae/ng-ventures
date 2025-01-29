@@ -1,13 +1,13 @@
 ---
-title: "How to build an Application with modern Technology"
-meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+title: "Taking the Leap: Why I'm Moving to Vietnam and What It Means for My Future"
+meta_title: "The Mindset Behind My Leap to Vietnam: Autonomy, Gratitude & Personal Growth"
+description: "I’m on a journey to Vietnam, not to escape, but to embrace a new chapter. Discover the mindset behind my decision—combining curiosity, relationships, and growth. Let's explore this adventure together."
+date: 2025-01-29T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
-draft: true
+categories: ["Personal Growth", "Travel", "Software & Tech"]
+author: "Trung Nguyen"
+tags: ["personal", "mental health", "self-discovery"]
+draft: false
 ---
 
 ## Homo sapiens. Sapiens—from the word wisdom.
