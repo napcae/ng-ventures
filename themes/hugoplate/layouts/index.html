@@ -1,36 +1,44 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
-      <div class="container">
-        <div class="row justify-center">
-          <div class="lg:col-7 md:col-9 mb-8 text-center">
-            <h1 class="mb-4 text-h3 lg:text-h1">
-              {{ .title | markdownify }}
-            </h1>
-            <p class="mb-8">
-              {{ .content | markdownify }}
-            </p>
-            {{ with .button }}
-              {{ if .enable }}
-                <a
-                  class="btn btn-primary"
-                  href="{{ .link | absURL }}"
-                  {{ if strings.HasPrefix .link `http` }}
-                    target="_blank" rel="noopener"
-                  {{ end }}>
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
-              {{ end }}
-            {{ end }}
-          </div>
-          <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
-          </div>
+  <section class="section pt-14">
+    <div class="container">
+      <div class="flex flex-col md:flex-row items-center justify-center text-center md:text-left md:gap-12 lg:gap-20">
+
+        <!-- Image (Above the text on smaller screens) -->
+        <div class="w-full md:w-5/12 flex justify-center mb-8 md:mb-0">
+          {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "w-full h-auto max-w-[800px] rounded-lg shadow-md" ) }}
         </div>
+
+        <!-- Text Content -->
+        <div class="lg:w-7/12 md:w-9/12 mb-8">
+          <h1 class="mb-4 text-h3 lg:text-h1">
+            {{ .title | markdownify }}
+          </h1>
+          <p class="mb-8">
+            {{ .content | markdownify }}
+          </p>
+          {{ with .button }}
+            {{ if .enable }}
+              <a
+                class="btn btn-primary"
+                href="{{ .link | absURL }}"
+                {{ if strings.HasPrefix .link `http` }}
+                  target="_blank" rel="noopener"
+                {{ end }}>
+                {{ .label }}
+                <i class="fa fa-arrow-right pl-2"></i>
+              </a>
+            {{ end }}
+          {{ end }}
+        </div>
+
       </div>
-    </section>
+    </div>
+  </section>
+
+
+
   {{ end }}
   <!-- /Banner -->
 

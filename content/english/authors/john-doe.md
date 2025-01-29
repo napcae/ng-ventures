@@ -1,7 +1,7 @@
 ---
-title: John Doe
-email: johndoe@email.com
-image: "/images/avatar.png"
+title: Trung Nguyen
+email: hello@ctnguyen.net
+image: "/images/IMG_4614.jpeg"
 description: this is meta description
 social:
   - name: github
