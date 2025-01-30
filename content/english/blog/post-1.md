@@ -25,7 +25,7 @@ Some people asked me how I made this leap. Not a lot stopped to ask *why*. So th
 #### Friends, Family, and Gratitude
 I didn’t grow up poor, but I wasn’t born into wealth either. What I *do* feel rich in is relationships. My friends, my family, the people who’ve shown up for me when it mattered—these connections are priceless. Strip away everything else: the achievements, the possessions, the noise. What crystallizes is this one truth: we’re remembered not for what we had, but for how we made others feel.
 
-[**Insert a story here about a meaningful relationship or moment of gratitude—for example, a family member, a mentor, or a life lesson someone taught you.**]
+
 
 ---
 
@@ -36,7 +36,7 @@ Curiosity led me to software. Mastering its creation and operation taught me fre
 
 Even now, as I step away from the realm of code, that mastery—this willingness to dive into gaps and hiccups in my understanding—comes with me. One thing I know for sure: if you love what you do, and you have autonomy in how you do it, the possibilities are endless.
 
-[**Insert a moment where software gave you a sense of purpose, or where your skills created freedom in your life. What did you build or solve that felt transformative?**]
+
 
 ---
 
@@ -47,7 +47,7 @@ Depression taught me that. It still teaches me. But presence—the ability to si
 
 It didn’t happen overnight. It’s been a journey of learning and unlearning. Step by step, I’ve moved away from the predictable patterns of distributed systems—the reliable world of computers and logic—to the unpredictable, messy world of us, humans.
 
-[**Insert a specific moment in your life where presence made a difference—maybe a turning point in your mental health journey or an insight that shifted your perspective.**]
+
 
 ---
 
@@ -57,7 +57,7 @@ So here I am, on this flight. Vietnam isn’t just a place on the map for me; it
 
 And yes, I’m scared. But I’m also ready. Ready to explore Vietnam’s hidden gems—the mountains, rivers, lakes. Ready to connect with people, build something meaningful, and grow in ways I haven’t yet imagined.
 
-[**Insert a personal connection to Vietnam—what does it mean to you? What are you most excited or nervous about? Maybe share a memory of a past trip or what makes this leap significant.**]
+
 
 ---
 
@@ -67,7 +67,7 @@ This isn’t just about me. I want this journey to inspire others—people who f
 
 You already know everything you need to know. The only thing left is action.
 
-[**Insert an anecdote about a time when you took a leap of faith, faced fear, and came out stronger. How did that experience shape you?**]
+
 
 ---
 
@@ -85,7 +85,7 @@ In the end, we all become dust. The same cosmic dust that formed from an explodi
 
 I’m diving headfirst into this unknown, and I want to remind you: life’s biggest shifts don’t come from waiting. They come from stepping forward, no matter how uncertain the ground feels.
 
-[**Insert a personal note/aspiration for the future—what do you hope to achieve, learn, or experience as you take this leap?**]
+
 
 ---
 
