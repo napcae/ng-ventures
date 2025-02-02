@@ -9,11 +9,6 @@ author: "Trung Nguyen"
 tags: ["personal", "mental health", "self-discovery"]
 draft: false
 ---
-It's commendable that you want to express humility and awareness of your privilege while sharing your journey. Here’s how you can incorporate these sentiments into your blog post to convey your message clearly and respectfully:
-
-### **Revised Excerpt with Emphasis on Humility and Support for Others**
-
-
 ## Homo sapiens. Sapiens—from the word wisdom.
 
 We’re the only species that knows, with absolute certainty, that someday we’re going to die. Maybe that’s a burden, or maybe it’s a gift—one only we get to experience. For me, that awareness has become a quiet driver, something that constantly hums in the background, nudging me to ask: *What do I want to do with the time I’ve been given?*
