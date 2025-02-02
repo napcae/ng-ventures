@@ -11,6 +11,7 @@ banner:
     label: "Subscribe for Growth Insights"
     link: "https://theuncomfortzone.substack.com/"
 ---
+<!-- {{ partial "substack-widget.html" }} -->
 
 <!-- ---
 # Banner

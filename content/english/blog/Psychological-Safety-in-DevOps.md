@@ -7,7 +7,7 @@ image: "/images/image-placeholder.png"
 categories: ["DevOps & SRE", "Remote Work & Hybrid Teams",  "Mental Health & Workplace Well-being", "Software & Tech"]
 author: "Trung Nguyen"
 tags: ["technology", "sre", "psychological safety", "remote work culture", "devops best practices"]
-draft: false
+draft: true
 ---
 
 

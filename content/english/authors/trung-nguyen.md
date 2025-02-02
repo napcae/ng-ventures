@@ -3,18 +3,18 @@ title: Trung Nguyen
 email: hello@ctnguyen.net
 image: "/images/IMG_4614.jpeg"
 description: "Trung Nguyen helps founders and engineering teams scale sustainably with a human-centered approach. Specializing in B2B, green tech, and optimizing tech processes for long-term success."
-social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
+# social:
+#   - name: github
+#     icon: fa-brands fa-github
+#     link: https://github.com
 
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
+#   - name: twitter
+#     icon: fa-brands fa-twitter
+#     link: https://twitter.com
 
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+#   - name: linkedin
+#     icon: fa-brands fa-linkedin
+#     link: https://linkedin.com
 ---
 
 I’m not just a technical advisor; I’m a partner in your growth journey. Born in Germany to Vietnamese parents, I’ve learned to navigate between cultures, an experience that influences how I approach both life and work.
@@ -78,3 +78,4 @@ My focus is on creating solutions that empower teams to make confident decisions
 If you’re looking to scale your business with solutions that support your team, values, and vision, let’s talk!
 
 In my spare time, you’ll find me rock climbing, bikepacking, hiking, or cooking—activities that keep me grounded and reflect the same passion and perseverance I bring to my work.
+
