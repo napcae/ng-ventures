@@ -51,6 +51,6 @@ The initial DevOps Growth Audit is priced at €3,500. If you choose to proceed 
 
 ### Ready to optimize your infrastructure and cut costs?
 
-<button>Book your DevOps Growth Audit CTA</button>
+[Book your DevOps Growth Audit today!](https://cal.com/trungfromberlin/15min)
 
 
