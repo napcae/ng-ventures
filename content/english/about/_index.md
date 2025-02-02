@@ -36,3 +36,6 @@ My focus is on creating solutions that empower teams to make confident decisions
 If you’re looking to scale your business with solutions that support your team, values, and vision, let’s talk!
 
 In my spare time, you’ll find me rock climbing, bikepacking, hiking, or cooking—activities that keep me grounded and reflect the same passion and perseverance I bring to my work.
+<!--{{< figure src=/images/IMG_0349.jpeg >}}-->
+{{< gallery dir="images/gallery/hobbies" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
