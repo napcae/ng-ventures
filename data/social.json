@@ -17,8 +17,13 @@
     },
     {
       "name": "linktree",
-      "icon": "fab fa-link",
+      "icon": "fa-solid fa-link",
       "link": "https://trung.berlin"
+    },
+    {
+      "name": "mail",
+      "icon": "fa-solid fa-envelope",
+      "link": "mailto:hello@ctnguyen.net"
     }
   ]
 }
