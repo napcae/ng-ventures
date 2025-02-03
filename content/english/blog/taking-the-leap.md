@@ -4,9 +4,9 @@ meta_title: "The Mindset Behind My Leap to Vietnam: Autonomy, Gratitude & Person
 description: "I’m on a journey to Vietnam, not to escape, but to embrace a new chapter. Discover the mindset behind my decision—combining curiosity, relationships, and growth. Let's explore this adventure together."
 date: 2025-01-29T05:00:00Z
 image: "/images/IMG_1490.jpeg"
-categories: ["Personal Growth", "Travel", "Software & Tech"]
+categories: ["Personal Growth", "Travel", "Software", "Tech"]
 author: "Trung Nguyen"
-tags: ["personal", "mental health", "self-discovery"]
+tags: ["personal"]
 draft: false
 ---
 ## Homo sapiens. Sapiens—from the word wisdom.
