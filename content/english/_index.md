@@ -5,7 +5,7 @@ banner:
   content: "I help B2B and green tech companies scale by simplifying complex technology.
   With 15+ years in DevOps, SRE, Security, and team growth, I focus on practical solutions that improve workflow, cut waste, and support the people behind the tech.
   Let’s make things work—better."
-  image: "/images/WIL01601.jpeg"
+  image: "/images/WIL01601.png"
   button:
     enable: true
     label: "Find Hidden DevOps Bottlenecks – Get Your Growth Audit Now"
