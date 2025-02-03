@@ -36,9 +36,13 @@ window.TallyConfig = {
 -->
 
 
-[Book your DevOps Growth Audit today!](https://cal.com/trungfromberlin/15min)
+
 
 You’re scaling, but your **infrastructure is holding you back**. Costs are soaring, **deployments are slow**, and you’re facing breakdowns at the worst possible times. No matter how many optimizations you make, inefficiencies keep piling up and **costs keep climbing**—without any clear path forward.
+
+<!--more-->
+
+[Book your DevOps Growth Audit today!](https://cal.com/trungfromberlin/15min)
 
 What if you could **identify the exact roadblocks** that are slowing you down and fix them **without wasting more time or money**? Imagine a clear, **actionable plan** that addresses your infrastructure problems—**keeping your costs low** and your **team focused on growth**, not firefighting.
 
@@ -116,6 +120,8 @@ This is what **AtlasSync** (or any startup) could look like **after the DevOps G
 This is **not an idealized scenario**—this is the kind of transformation I’ve helped **real startups** achieve. If you're feeling the weight of **rising cloud costs**, **delayed releases**, or **scalability issues**, the **DevOps Growth Audit** offers a clear, actionable way forward.
 
 You don’t have to keep guessing or patching problems as they arise. Instead, you can **optimize** your infrastructure now, set your business up for **sustainable growth**, and start seeing **real, measurable results**.
+
+[Get My Free DevOps Growth Audit Checklist](https://tally.so/r/waAKvv)
 
 ---
 
