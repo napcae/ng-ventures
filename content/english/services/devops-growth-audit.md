@@ -42,7 +42,7 @@ You’re scaling, but your **infrastructure is holding you back**. Costs are soa
 
 <!--more-->
 
-[Book your DevOps Growth Audit today!](https://cal.com/trungfromberlin/15min)
+{{< cta-call >}}
 
 What if you could **identify the exact roadblocks** that are slowing you down and fix them **without wasting more time or money**? Imagine a clear, **actionable plan** that addresses your infrastructure problems—**keeping your costs low** and your **team focused on growth**, not firefighting.
 
@@ -121,7 +121,7 @@ This is **not an idealized scenario**—this is the kind of transformation I’v
 
 You don’t have to keep guessing or patching problems as they arise. Instead, you can **optimize** your infrastructure now, set your business up for **sustainable growth**, and start seeing **real, measurable results**.
 
-[Get My Free DevOps Growth Audit Checklist](https://tally.so/r/waAKvv)
+{{< cta-freebie >}}
 
 ---
 
@@ -132,7 +132,7 @@ Are you ready to **optimize your infrastructure** and eliminate hidden inefficie
 ## Pricing
 The initial DevOps Growth Audit is **priced at €3,500**, which includes the **comprehensive analysis** of your infrastructure. If you decide to implement the recommendations, **follow-up consulting** is available at **€1,500 per month**. This includes **additional audits**, implementation support, and **ongoing guidance**.
 
-[Book your DevOps Growth Audit today!](https://cal.com/trungfromberlin/15min)! and start the journey to cut costs and scale effortlessly!
+[Book your DevOps Growth Audit today!](https://cal.com/trungfromberlin/15min) and start the journey to cut costs and scale effortlessly!
 
 ## What others say:
 
@@ -148,6 +148,6 @@ The initial DevOps Growth Audit is **priced at €3,500**, which includes the **
 
 ### Ready to optimize your infrastructure and cut costs?
 
-[Book your DevOps Growth Audit today!](https://cal.com/trungfromberlin/15min)
+{{< cta-call >}}
 
 
