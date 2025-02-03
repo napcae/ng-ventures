@@ -8,8 +8,8 @@ banner:
   image: "/images/WIL01601.jpeg"
   button:
     enable: true
-    label: "Subscribe for Growth Insights"
-    link: "https://theuncomfortzone.substack.com/"
+    label: "get a free 15 minute consultation call"
+    link: "https://cal.com/trungfromberlin/15min"
 ---
 <!-- {{ partial "substack-widget.html" }} -->
 

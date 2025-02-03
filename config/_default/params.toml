@@ -38,8 +38,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a free 15 minute consultation call"
-link = "https://cal.com/trungfromberlin/15min"
+label = "Subscribe for Growth Insights"
+link = "https://theuncomfortzone.substack.com/"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
