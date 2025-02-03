@@ -7,6 +7,26 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
+<script async src="https://tally.so/widgets/embed.js"></script>
+
+<script>
+window.TallyConfig = {
+  "formId": "waAKvv",
+  "popup": {
+    "width": 250,
+    "emoji": {
+      "text": "👋",
+      "animation": "wave"
+    },
+    "open": {
+      "trigger": "scroll",
+      "scrollPercent": 80
+    },
+    "showOnce": true,
+    "doNotShowAfterSubmit": true
+  }
+};
+</script>
 
 ### *“Cut Wasted Costs & Scale Effortlessly—Without the Chaos”*
 
