@@ -58,7 +58,7 @@ weight = 4
 # footer menu
 [[footer]]
 name = "About Me"
-url = "/about"
+url = "/authors/trung-nguyen/"
 weight = 1
 
 [[footer]]

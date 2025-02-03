@@ -1,8 +1,8 @@
 ---
 title: Trung Nguyen
 email: hello@ctnguyen.net
-image: "/images/IMG_4614.jpeg"
-description: "Trung Nguyen helps founders and engineering teams scale sustainably with a human-centered approach. Specializing in B2B, green tech, and optimizing tech processes for long-term success."
+image: "/images/1738548282605.png"
+description: "Trung Nguyen helps founders and engineering teams scale sustainably with a people-centered approach. Specializing in B2B, green tech, and optimizing tech processes for long-term success."
 # social:
 #   - name: github
 #     icon: fa-brands fa-github
@@ -48,3 +48,6 @@ My focus is on creating solutions that empower teams to make confident decisions
 If you’re looking to scale your business with solutions that support your team, values, and vision, let’s talk!
 
 In my spare time, you’ll find me rock climbing, bikepacking, hiking, or cooking—activities that keep me grounded and reflect the same passion and perseverance I bring to my work.
+
+{{< gallery dir="images/gallery/hobbies" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+

@@ -3,7 +3,7 @@ title: "Trung Nguyen – Expert Technology Advisor for Green Tech & B2B Solution
 meta_title: "Trung Nguyen | B2B & Green Tech Advisor for Human-Centered Growth Solutions"
 description: "Trung Nguyen helps founders and engineering teams scale sustainably with a human-centered approach. Specializing in B2B, green tech, and optimizing tech processes for long-term success."
 image: "/images/1738548282605.png"
-draft: false
+draft: true
 ---
 I’m not just a technical advisor; I’m a partner in your growth journey. Born in Germany to Vietnamese parents, I’ve learned to navigate between cultures, an experience that influences how I approach both life and work.
 
