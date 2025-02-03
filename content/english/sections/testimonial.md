@@ -21,7 +21,7 @@ testimonials:
     content: "Trung is the key person in making our application run. There's a lot of compromises we could make in engineering, but we could only push forward because of how robust our infrastructure is."
 
   - name: ""
-    designation: "Senior Engineer"
+    designation: "Junior Engineer"
     avatar: "/images/avatar-sm.png"
     content: "The team is very happy with our processes and the tasks they work on. Morale is high, which is a great feeling. He creates space for others by mentoring & actively involving team members."
 
