@@ -1,9 +1,9 @@
 ---
 title: "🚀 DevOps Growth Audit"
 # meta title
-meta_title: ""
+meta_title: "🚀 DevOps Growth Audit – Cut Costs & Scale Faster"
 # meta description
-description: "This is meta description"
+description: "Cut costs & scale effortlessly! The DevOps Growth Audit optimizes your infrastructure, slashes cloud expenses, and boosts deployment speed. Book now!"
 # save as draft
 draft: false
 ---
