@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://napcae.github.io/ng-ventures/"
+baseURL = "https://ctnguyen.net/"
 # Title of your website (required).
 title = "Trung Nguyen – Expert Technology Advisor for Green Tech & B2B Solutions"
 # Your theme name
