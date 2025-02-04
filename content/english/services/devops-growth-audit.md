@@ -127,12 +127,76 @@ You don’t have to keep guessing or patching problems as they arise. Instead, y
 
 ### **💬 Ready to Take Control?**
 
-Are you ready to **optimize your infrastructure** and eliminate hidden inefficiencies that are slowing down your growth? Book your **DevOps Growth Audit** today, and let’s work together to put your infrastructure on the path to seamless, scalable success.
+Are you ready to **optimize your infrastructure** and eliminate hidden inefficiencies that are slowing down your growth? The **DevOps Growth Audit** is customized based on your **challenges, infrastructure complexity, and expected ROI**—because a one-size-fits-all approach doesn’t work when scaling effectively.
 
-## Pricing
-The initial DevOps Growth Audit is **priced at €3,500**, which includes the **comprehensive analysis** of your infrastructure. If you decide to implement the recommendations, **follow-up consulting** is available at **€1,500 per month**. This includes **additional audits**, implementation support, and **ongoing guidance**.
+Instead of a fixed price, I structure my work based on the **value I create for your business**. Whether it's **cutting cloud costs by 30-50%**, **reducing deployment time by 60%**, or **eliminating scalability issues**, I focus on **outcomes**—not just hours.
 
-[Book your DevOps Growth Audit today!](https://cal.com/trungfromberlin/15min) and start the journey to cut costs and scale effortlessly!
+If you're serious about unlocking **sustainable, faster growth and lower costs**, let's discuss your unique needs.
+
+📅 **[Book a free consultation now](https://cal.com/trungfromberlin/15min)**, and let’s find the best way to optimize your DevOps strategy.
+
+## **Frequently Asked Questions(FAQ)**
+
+{{< accordion "How do I know if I need a DevOps Growth Audit?" >}}
+
+If you're struggling with **rising infrastructure costs, slow deployments, or scalability issues**, this audit is for you. Common signs include:
+- **Cloud bills creeping up** with no clear reason.
+- **Deployments taking too long**, leading to frustration and delays.
+- **Scaling challenges**, where adding more resources isn’t fixing performance issues.
+- **Teams bogged down in approvals** instead of moving fast.
+
+If any of these sound familiar, the **DevOps Growth Audit** will help you identify exactly **where the bottlenecks are** and how to fix them.
+
+{{< /accordion >}}
+
+{{< accordion "How is this different from other DevOps consulting services?" >}}
+
+Most consultants focus **only on the tech**—pipelines, automation, and cloud configurations. That’s important, but it’s only **half the picture**. I go deeper by looking at **both technical and cultural bottlenecks**, including:
+- **Cloud cost inefficiencies** – where you’re overpaying for underused resources.
+- **Deployment & CI/CD delays** – what’s slowing down releases and how to fix it.
+- **Scaling readiness** – whether your infrastructure is built for sustainable growth.
+- **Team collaboration & psychological safety** – eliminating workflow friction.
+
+This means you don’t just get a **technical report**—you get a **clear, actionable roadmap** to scale smoothly and cost-effectively.
+
+{{< /accordion >}}
+
+{{< accordion "What’s the process?" >}}
+
+1. **Deep Dive Audit** – We analyze your infrastructure, costs, and deployment processes.
+2. **Priority Fixes** – We identify the **biggest impact areas** using the 80/20 principle.
+3. **Scalability Plan** – You get a clear roadmap for scaling efficiently.
+4. **Cost Savings Report** – I show you exactly how to **cut wasted spending**.
+5. **Follow-Up Consulting (Optional)** – If needed, I help you implement changes.
+
+{{< /accordion >}}
+
+{{< accordion "How do you price the audit?" >}}
+
+Instead of fixed pricing, I use **value-based pricing**. This means my pricing depends on the **complexity of your infrastructure, the expected ROI, and the scope of improvements needed**.
+
+For example:
+- If I help **cut your cloud spend by 30-50%**, the pricing reflects a portion of that savings.
+- If I **reduce deployment time by 60%**, the value is in the increased velocity of your team.
+
+Every business is different, so let’s chat and figure out the best way to maximize your ROI. **[Book a free consultation](https://cal.com/trungfromberlin/15min)** to see how I can help.
+
+{{< /accordion >}}
+
+
+{{< accordion "How long does the audit take?" >}}
+
+Typically, the **core audit takes 1-2 weeks**, depending on your infrastructure complexity. If you need additional consulting and implementation, I offer **ongoing support** to ensure your team stays on track.
+
+{{< /accordion >}}
+
+{{< accordion "What if I don’t have a DevOps team?" >}}
+
+No problem! I can work with **engineering leaders, product teams, or even CTOs** to build an **efficient, scalable foundation**—even if you don’t have a dedicated DevOps team yet.
+
+{{< /accordion >}}
+
+---
 
 ## What others say:
 
