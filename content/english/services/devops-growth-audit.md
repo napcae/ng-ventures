@@ -19,12 +19,11 @@ window.TallyConfig = {
       "text": "👋",
       "animation": "wave"
     },
+    "autoClose": 5000,
     "open": {
-      "trigger": "scroll",
-      "scrollPercent": 80
-    },
-    "showOnce": true,
-    "doNotShowAfterSubmit": true
+      "trigger": "time",
+      "ms": 5000
+    }
   }
 };
 </script>
