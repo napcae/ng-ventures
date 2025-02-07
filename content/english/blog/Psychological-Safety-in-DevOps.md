@@ -36,7 +36,7 @@ The concept was popularized by Dr. Amy Edmondson at Harvard Business School, who
 
 Here’s why this matters in DevOps and SRE. These are high-stakes environments where experimentation, fast recovery, and constant communication are mission-critical. When people are afraid to raise flags or own their mistakes, it creates blind spots that can take entire systems down. In hybrid and remote setups, where communication challenges are already amplified, psychological safety becomes even more crucial to avoid these pitfalls.
 
-**[Insert anecdote about a DevOps or hybrid/remote team challenge where psychological safety (or the lack of it) had a noticeable impact.]**
+At a fast-growing B2B startup in Germany, our DevOps team struggled with a major outage. I spotted a misconfiguration but hesitated to speak up, fearing blame. Hours passed as senior engineers debugged in the wrong direction. Finally, I shared my findings, and the fix was immediate. That moment taught me how the lack of psychological safety can slow us down more than any technical issue.
 
 ---
 
@@ -92,7 +92,7 @@ Here’s the thing: failure is inevitable. But what if it was also…acceptable?
 
 Error budgets encourage engineers to ask, “What’s the worst that could happen?” instead of worrying, “What if this breaks?” For hybrid teams, error budgets also level the playing field. They ensure that everyone—whether remote or in-office—has a shared understanding of risk tolerance. This avoids the finger-pointing that can sometimes arise when only part of the team is physically present to explain a failure.
 
-**[Insert example from your experience or story about how an error budget led to innovation or helped a team bounce back from failure.]**
+At our startup, we hesitated to deploy a major caching change that could speed up queries—but also risk downtime. Normally, we’d delay for weeks, fearing the fallout. But with error budget left, we launched, knowing a rollback was an option. The initial spike in errors looked bad, but within hours, tweaks stabilized everything. In the end, we cut load times in half—something we wouldn’t have dared without that buffer.
 
 ---
 
