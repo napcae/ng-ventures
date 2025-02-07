@@ -20,7 +20,7 @@
 {{ partialCached "site-verifications.html" . }}
 
 
-{{ if (eq $taxonomy "categories") }} {{/* Check if it's a taxonomy page */}}
+{{ if (eq .Type "categories") }} {{/* Check if it's a taxonomy page to fix duplicate SEO title/description */}}
   <title>Explore articles on {{ .Title }} | Trung Nguyen </title>
   <meta name="description" content="{{ .Title }} insights from Trung Nguyen. Focusing on psychological safety, sustainable growth, and the human side of DevOps. Learn more!"> {{/* Example description */}}
 
