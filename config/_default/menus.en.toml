@@ -20,6 +20,11 @@ weight = 3
 name = "Blog"
 url = "/blog"
 weight = 4
+
+[[main]]
+name = "Freebies"
+url = "/freebies"
+weight = 5
 #[[main]]
 #name = "Elements"
 #url = "/elements"
@@ -66,7 +71,7 @@ name = "Services"
 url = "/services"
 weight = 2
 
-#[[footer]]
-#name = "Privacy Policy"
-#url = "/privacy-policy"
+[[footer]]
+name = "Freebies"
+url = "/freebies"
 #weight = 3
