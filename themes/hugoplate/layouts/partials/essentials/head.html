@@ -20,8 +20,14 @@
 {{ partialCached "site-verifications.html" . }}
 
 
-<!-- opengraph and twitter card -->
-{{ partial "basic-seo.html" . }}
+{{ if (eq $taxonomy "categories") }} {{/* Check if it's a taxonomy page */}}
+  <title>Explore articles on {{ .Title }} | Trung Nguyen </title>
+  <meta name="description" content="{{ .Title }} insights from Trung Nguyen. Focusing on psychological safety, sustainable growth, and the human side of DevOps. Learn more!"> {{/* Example description */}}
+
+{{ else }} {{/* Fallback to the default basic-seo partial */}}
+  <!-- opengraph and twitter card -->
+  {{ partial "basic-seo.html" . }}
+{{ end }}
 
 
 <!-- custom script -->
