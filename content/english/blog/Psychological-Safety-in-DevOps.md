@@ -3,7 +3,7 @@ title: "Psychological Safety in DevOps: How SRE Principles Can Help Remote and H
 meta_title: "Creating Psychological Safety in Remote & Hybrid DevOps Teams: Trust, Innovation & Growth"
 description: "Psychological safety is the key to unlocking team potential, especially in hybrid and remote DevOps environments. Learn how to build trust, embrace failure, and foster innovation using DevOps and SRE principles."
 date: 2024-02-05T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/IMG_1505.jpeg"
 categories: ["Devops", "SRE", "RemoteWork",  "WorkplaceWell-being", "Software" ,"Tech"]
 author: "Trung Nguyen"
 tags: ["technology", "sre", "psychological safety", "remote work culture", "devops best practices"]
