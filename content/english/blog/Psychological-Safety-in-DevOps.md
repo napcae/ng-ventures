@@ -6,7 +6,7 @@ date: 2024-02-05T05:00:00Z
 image: "/images/IMG_1505.jpeg"
 categories: ["Devops", "SRE", "RemoteWork",  "WorkplaceWell-being", "Software" ,"Tech"]
 author: "Trung Nguyen"
-tags: ["technology", "sre", "psychological safety", "remote work culture", "devops best practices"]
+tags: ["technology", "psychological safety", "remote work culture", "devops best practices"]
 draft: false
 ---
 
