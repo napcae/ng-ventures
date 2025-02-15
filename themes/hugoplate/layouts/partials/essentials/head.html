@@ -73,14 +73,16 @@
 <script src="https://swetrix.org/swetrix.js" defer></script>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    swetrix.init('MMlFuDChhMqI')
+    swetrix.init('MMlFuDChhMqI', {
+      apiURL: 'https://api.t.nettelbeckplatz.de/log',
+    })
     swetrix.trackViews()
   })
 </script>
 
 <noscript>
   <img
-    src="https://api.swetrix.com/log/noscript?pid=MMlFuDChhMqI"
+    src="https://api.t.nettelbeckplatz.de/log/noscript?pid=MMlFuDChhMqI"
     alt=""
     referrerpolicy="no-referrer-when-downgrade"
   />
