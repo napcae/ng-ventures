@@ -5,9 +5,9 @@ description: "Don't just take my word for it - hear from some of lovely people I
 
 # Testimonials
 testimonials:
-  - name: ""
-    designation: "CTO"
-    avatar: "/images/avatar-sm.png"
+  - name: "Steffen Wenz"
+    designation: "CTO - Workpath"
+    avatar: "/images/steffen_wenz.jpg"
     content: "We've scaled from 1 to 6 product teams simultaneously thanks to the solid foundations Trung laid. Trung excels at seeing the big picture for our team and where we can and should focus our resources."
 
   - name: ""
