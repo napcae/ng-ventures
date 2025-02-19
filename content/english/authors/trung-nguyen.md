@@ -25,11 +25,6 @@ With over 15 years of experience across startups, enterprises, and a wide range 
 
 {{< cta-newsletter >}}
 
-<iframe src="https://theuncomfortzone.substack.com/embed" width="450" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-<div style="text-align: center;">
-<iframe src="https://theuncomfortzone.substack.com/embed" width="450" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
-
 ## **What Drives Me: People, Processes, and Right-Sized Technology for Sustainable Growth**
 
 I believe that technology should serve people, not the other way around. That’s why my approach centers on the right-sizing and appropriate usage of technology to ensure it aligns with both your team’s needs and long-term business goals.

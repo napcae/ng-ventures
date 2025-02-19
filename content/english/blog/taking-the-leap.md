@@ -17,6 +17,8 @@ And that’s why, today, I’m here—on a flight to Vietnam. No return ticket. 
 
 Some people have asked me how I made this leap. Not many have stopped to ask *why*, which is what I want to explore today, 30,000 feet above the ground.
 
+{{< cta-newsletter >}}
+
 ### **The Mindset Behind the Leap**
 
 #### Friends, Family, and Gratitude
