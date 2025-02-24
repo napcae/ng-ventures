@@ -16,15 +16,20 @@ name = "Services"
 url = "/services"
 weight = 3
 
+#[[main]]
+#name = "Subscribe for weekly Growth Insights"
+#url = "https://theuncomfortzone.substack.com"
+#weight = 4
+
 [[main]]
 name = "Blog"
 url = "/blog"
-weight = 4
+weight = 5
 
 [[main]]
 name = "Freebies"
 url = "/freebies"
-weight = 5
+weight = 6
 #[[main]]
 #name = "Elements"
 #url = "/elements"
@@ -67,11 +72,16 @@ url = "/authors/trung-nguyen/"
 weight = 1
 
 [[footer]]
+name = "Unlock your growth potential"
+url = "https://theuncomfortzone.substack.com/"
+weight = 2
+
+[[footer]]
 name = "Services"
 url = "/services"
-weight = 2
+weight = 3
 
 [[footer]]
 name = "Freebies"
 url = "/freebies"
-#weight = 3
+weight = 4
