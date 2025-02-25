@@ -122,3 +122,5 @@ Psychological safety isn’t just a buzzword. It’s something you actively buil
 Psychological safety is the unsung hero of successful DevOps and SRE teams—especially in remote and hybrid environments. By building trust, embracing failure, and leveling communication gaps, you can create a team where everyone feels empowered to contribute their best work.
 
 So here’s a challenge for you: how can you make your team a little safer this week? Whether it’s running your first blameless postmortem or simply asking for feedback, it starts with small steps. And those steps make all the difference.
+
+Consider supporting me by [subscribing to my newsletter](https://theuncomfortzone.substack.com/), I promise no spam and you'll be the first to know when I have news.
