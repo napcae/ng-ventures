@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "What Others Are Saying About Trung"
-description: "Don't just take my word for it - hear from some of lovely people I've worked with over the years!  Check out some of the testimonials below to see what others are saying about Trung."
+description: "Don't just take my word for it - hear from some of lovely people I've worked with over the years! My work has always been about optimizing systems, reducing inefficiencies, and helping teams scale. Here’s what past colleagues and leaders have said about my impact."
 
 # Testimonials
 testimonials:
