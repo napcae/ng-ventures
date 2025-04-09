@@ -2,7 +2,7 @@
 title: Trung Nguyen
 email: hello@ctnguyen.net
 image: "/images/me_new.png"
-description: "Trung Nguyen helps founders and engineering teams scale sustainably with a people-centered approach. Specializing in B2B, green tech, and optimizing tech processes for long-term success."
+description: "Trung Nguyen creates intentional spaces for founders building with purpose. With a background in scaling startups to unicorns, he now supports values-driven tech leaders shaping the future of education, health, and climate through connection, clarity, and systems thinking."
 # social:
 #   - name: github
 #     icon: fa-brands fa-github
@@ -17,25 +17,31 @@ description: "Trung Nguyen helps founders and engineering teams scale sustainabl
 #     link: https://linkedin.com
 ---
 
+A while back, I hit a wall.
 
+On the surface, I was doing well—climbing, leading, achieving. But underneath, I felt disconnected. I pushed myself hard, trying to prove something. And still, the doubts lingered. I hurt people because I was hurting. I blamed systems, but the real blockers were in my own head.
 
-A while back, I found myself at a crossroads. I had spent years pushing forward, working hard, chasing success, and trying to prove myself. But despite the achievements and experiences, I felt stuck. Imposter syndrome, self-doubt, and a distorted self-image weighed me down. I hurt people because I was hurting. I was stubborn, unwilling to change, and blind to the fact that my biggest limitations weren’t external; they were in my own head.
+Then life interrupted.
+Losing my job forced a pause. Space opened. And with it came the question:
+What am I really here to do?
 
+It took time, humility, and a second break for the answer to land:
+I didn’t just want to grow. I wanted to create the kind of space I wish I’d had—where people grow together.
 
-Then life forced me to pause. Losing my job gave me space to reflect: What do I actually want? It took yet another forced break for me to finally accept the truth. I didn’t just want to grow; I wanted to create a space where others could grow too.
+That’s why I’m building [The Inner Circle](https://tally.so/r/31Rj7M) — a global network for purpose-driven founders.
+We’re here to build companies that matter, support one another through discomfort, and lead with depth—not ego.
+Because growth doesn’t happen in isolation. It happens in honest rooms, with people who won’t let you shrink.
 
-I’m now building that space — [The Inner Circle](https://tally.so/r/31Rj7M) - global network of founders building purpose-driven businesses that make an impact beyond profit.
-Because we’re stronger when we surround ourselves with people who won’t let us stay small.
+My background is in scaling software systems and teams—from startups to unicorns, agencies to enterprises.
+I’ve led across security, infrastructure, and engineering strategy—often at the edges where complexity meets human friction.
+That taught me this: real change doesn’t start in the system. It starts in us.
 
-Through my journey of mentoring, traveling, endurance challenges and tech leadership, I’ve seen firsthand that growth happens when we face discomfort together. Whether it’s breaking through mental blocks, overcoming fear in business, or reconnecting with our culture, I want to help create those moments of transformation.
-
-If that speaks to you, let’s [connect](https://trung.berlin). Let’s build, challenge, and grow together.
-
-I’m here to help founders find clarity, focus, and purpose — because I know how powerful it can be.
+If that speaks to you, [let's connect](https://trung.berlin).
+Let’s build, reflect, and grow into what’s next.
 
 {{< cta-newsletter >}}
 
-In my spare time, you’ll find me rock climbing, bikepacking, hiking, or cooking—activities that keep me grounded and reflect the same passion and perseverance I bring to my work.
+In between, you’ll find me climbing rocks, cooking with friends, or somewhere on a bike.
+That’s where I feel most human—and bring that same energy to the work I do.
 
 {{< gallery dir="images/gallery/hobbies" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
