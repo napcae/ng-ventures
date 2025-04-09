@@ -1,32 +1,43 @@
 ---
 # Banner
 banner:
-  title: "Hi, I’m Trung. I Help Teams Make Technology Work—Simply and Effectively."
-  content: "I help B2B and green tech companies scale by simplifying complex technology.
-  With 15+ years in DevOps, SRE, Security, and team growth, I focus on practical solutions that improve workflow, cut waste, and support the people behind the tech.
-  Let’s make things work—better."
-  image: "/images/WIL01601.png"
+  title: "Hi, I’m Trung. I Help Founders Reclaim the Why—And Build What’s Worth Building."
+  content: "After 15+ years growing teams through complexity, I realized:
+Growth at all costs isn’t it.
+Now, I design spaces where founders connect to each other, their purpose, and the future they actually want to build."
+  image: "/images/me_new.png"
   button:
     enable: true
-    label: "Find Hidden DevOps Bottlenecks – Get Your Growth Audit Now"
-    link: "/services/devops-growth-audit/"
+    label: "Reclaim Calm. Rediscover Growth. Join Us"
+    link: "https://tally.so/r/31Rj7M"
 
-## Features
-# features:
-#   - title: "What's Included in Hugoplate"
-#     image: "https://illustrations.popsy.co/sky/man-riding-a-rocket.svg"
-#     content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-#     bulletpoints:
-#       - "10+ Pre-build pages"
-#       - "95+ Google Pagespeed Score"
-#       - "Build with Hugo and TailwindCSS for easy and customizable styling"
-#       - "Fully responsive on all devices"
-#       - "SEO-optimized for better search engine rankings"
-#       - "**Open-source and free** for personal and commercial use"
-#     button:
-#       enable: true
-#       label: "Get Started Now"
-#       link: "/services/devops-growth-audit/"
+
+
+features:
+  - title: "Why This Exists"
+    image: "https://illustrations.popsy.co/yellow/happy-man-waving.svg"
+    content: |
+      I’ve worked across startups, unicorns, and everything in between. What stayed with me wasn’t the scale—it was the silence.
+
+      Founders doing brave, meaningful work. Alone.
+
+      This space is for them. For us. The ones building with care, not just speed. Who want clarity, not just noise. And a circle that sees them—before the pitch deck.
+
+      Because real change starts with people. And people need space.
+
+
+    bulletpoints:
+      -
+      - A global circle of SEA-rooted founders
+      - For ethical, purpose-driven tech—longevity, climate, health, and education
+      - Conversations that create clarity—not noise
+      - "Energy flows both ways: you give, you grow"
+      - Zero ego. Full presence. Real connection.
+      - ✨ Waitlist open now — start small, grow together
+    button:
+      enable: true
+      label: "Join the Waitlist"
+      link: "https://tally.so/r/31Rj7M"
 
 ---
 <!-- {{ partial "substack-widget.html" }} -->
